@@ -1,0 +1,27 @@
+/*@media screen*/
+@media (max-width:1366px) {
+
+}
+
+@media (min-width:1400px){
+
+}
+.bd1{ display:block; position:relative; height: 308px; background: url(../img/expext-bd.png); background-size: cover;
+background-position: center center; overflow: hidden; }
+.bd1 s{ display:block; margin:80px auto 30px; width:110px; height:110px; background:url(../img/success.png);  background-size: cover;
+background-position: center center; overflow: hidden; }
+.bd1 i{ display:block; margin:10px auto; max-width:110px; line-height:25px; text-align:center; font-size:18px; color:#fff; font-style:normal; overflow:hidden; }
+.sumbitBox{ margin:70px auto; max-width: 600px; overflow:hidden;}
+.sumbitBox h4{ font-size:18px; color:#222; margin: 0 auto 46px; max-width: 500px; }
+.sumbitBox ul{ margin:32px auto; max-width:480px; height:56px; overflow: hidden; }
+.sumbitBox li{ float:left; width:226px; height:56px; line-height:1; margin-right:20px;}
+.sumbitBox li:last-child{ margin-right: 0; }
+.sumbitBox li span,.sumbitBox li span a{ display:block; height:56px;  line-height: 56px;  text-align: center; cursor: pointer;}
+.sumbitBox li span:hover{ text-decoration: none; cursor: pointer; }
+.sumbitBox li.sumLink1{ background-color: white; border: 2px solid #08d1bc;}
+.sumbitBox li.sumLink1 span a{ color:#08d1bc; font-size: 24px; }
+.sumbitBox li.sumLink2{ background-color: #08d1bc; border: 2px solid #08d1bc;}
+.sumbitBox li.sumLink2 span a{ color:#fff; font-size: 24px; }
+.sumbitBox li.sumLink1 span a:hover, .sumbitBox li.sumLink2 span a:hover,.sumbitBox li.sumLink2 span a:active{ text-decoration:none; cursor:pointer;}
+.sumbitBox li.sumLink2:hover{ background-color:#07bfac; border: 2px solid #07bfac; }
+.sumbitBox p{ clear:both; line-height: 25px; text-align: center; font-size: 14px; color:#676869; }
